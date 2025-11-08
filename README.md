@@ -41,4 +41,4 @@ still cooking 🐦‍🔥
 
 📫 Let's Connect!
 <p align="center"> <a href="https://linkedin.com/in/letlhogonolo-chauke-4b5a40243"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:pitroschauke24.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://letlhogonolo24.github.io/Personal-Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /> </a> </p>
-<p align="center"> <img src="https://github.com/LETLHOGONOLO24/LETLHOGONOLO24/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p><p align="center"> <i>⚡ "Code is like humor. When you have to explain it, it's bad." - HLOGIZN_BUCKS</i> </p>
+<i>⚡ "Code is like humor. When you have to explain it, it's bad." - HLOGIZN_BUCKS</i> </p>
