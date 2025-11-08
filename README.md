@@ -14,20 +14,11 @@
 
 ## 🚀 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Letlhogonolo"
-        self.role = "Aspiring Developer"
-        self.passion = "building amazing software"
-        self.current_learning = ["Fundamental Analysis", "Data Science"]
-        self.fun_fact = "I love video games 🎮"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together.")
-        
-me = Developer()
-me.say_hi()
+- 🔭 I’m currently working on: **Data Science projects**
+- 🌱 I’m currently learning: **Data Science**
+- 💬 Ask me about: **Gaming🎮, Python & C++**
+- 📫 How to reach me: **pitroschauke24@gmail.com📧**
+- ⚡ Fun fact: **I love Video Games!**
 
 🛠️ Tech Stack
 Languages & Frameworks
