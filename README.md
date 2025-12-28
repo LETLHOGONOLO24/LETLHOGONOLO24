@@ -29,13 +29,13 @@ Tools & Platforms
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LETLHOGONOLO24&show_icons=true&theme=radical&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LETLHOGONOLO24&theme=radical&hide_border=true" /> </p><p align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LETLHOGONOLO24&layout=compact&theme=radical&hide_border=true&langs_count=8" /> </p>
 📈 Recent Activity
 
-🎨 Created new repository stock_analysis
+🎨 Created new repository Macro_Insights
 
 🔥 Your Awesome Project
 My awesome projects are my Java desktop applications and my e-commerce website.
 
 🚀 Another Cool Project
-still cooking 🐦‍🔥
+Want to take things up a NOTCH 🐦‍🔥
 
 
 
