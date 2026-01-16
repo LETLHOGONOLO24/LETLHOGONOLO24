@@ -32,7 +32,7 @@ Tools & Platforms
 🎨 Created new repository Macro_Insights
 
 🔥 Your Awesome Project
-My awesome projects are my Java desktop applications and my e-commerce website.
+My awesome projects are my Java desktop applications, my e-commerce website, and my macro_insights dashboard
 
 🚀 Another Cool Project
 Want to take things up a NOTCH 🐦‍🔥
